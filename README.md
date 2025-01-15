@@ -3,4 +3,4 @@
 ### Project 3: Canterra Employee Attrition (Phase 2)
 
 #### Project Summary
-The Canterra Employee Attrition project is an analysis of employee demographics and identification of predictors of employee attrition. This project expands on project 2 and uses additional machine learning models. This includes decision trees, bagged decision trees, and random forests.
+The Canterra Employee Attrition project is an analysis of employee demographics and identification of predictors of employee attrition. This project expands on project 2 and uses additional machine learning models. These include decision trees, bagged decision trees, and random forests.
